@@ -2,11 +2,13 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 html, body {
     height: 100%;
     width: 100%;
+   
 }
 
 .page1{
@@ -329,7 +331,7 @@ button {
 .box{
     height: 450px;
     width: 30%;
-    border: 2px solid black;d
+    border: 2px solid black;
 
 }
 
@@ -372,5 +374,6 @@ button {
     justify-content: center;
     align-items: center;
 }
+
 
 
